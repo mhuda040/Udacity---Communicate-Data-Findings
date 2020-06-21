@@ -1,4 +1,4 @@
-<H2>UDACITY Communicate Data Findings Project</H2>"
+<H2>UDACITY Communicate Data Findings Project</H2>
 
 The dataset that we analyzed for this project was from Ford GoBike.  The most recent dataset we used was from April 2019, before the service was rebranded as Bay Wheels after Ford ended its partnership with the program and Lyft absorbed Bay Area Bike Share.  This dataset consists of over 200,000 entries spanning 16 attributes.
 
